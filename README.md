@@ -1,1 +1,1 @@
-Привет мир! Я первый файл в данном Гит-е.  
+Hello world! I am first README.md file here.
