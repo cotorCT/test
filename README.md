@@ -1,1 +1,1 @@
-Hello world! I am first file in this Git. 
+Привет мир! Я первый файл в данном Гит-е.  
